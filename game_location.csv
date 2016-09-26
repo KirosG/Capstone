@@ -1,0 +1,802 @@
+dates,location,team
+5/9/13,Denver Broncos,Denver Broncos
+8/9/13,New York Jets,New York Jets
+8/9/13,Buffalo Bills,Buffalo Bills
+8/9/13,St. Louis Rams,St. Louis Rams
+8/9/13,Carolina Panthers,Carolina Panthers
+8/9/13,Detroit Lions,Detroit Lions
+8/9/13,Chicago Bears,Chicago Bears
+8/9/13,Jacksonville Jaguars,Jacksonville Jaguars
+8/9/13,Dallas Cowboys,Dallas Cowboys
+8/9/13,Pittsburgh Steelers,Pittsburgh Steelers
+8/9/13,Cleveland Browns,Cleveland Browns
+8/9/13,San Francisco 49ers,San Francisco 49ers
+8/9/13,Indianapolis Colts,Indianapolis Colts
+8/9/13,New Orleans Saints,New Orleans Saints
+9/9/13,Washington Redskins,Washington Redskins
+9/9/13,San Diego Chargers,San Diego Chargers
+12/9/13,New England Patriots,New England Patriots
+15/9/13,Kansas City Chiefs,Kansas City Chiefs
+15/9/13,Philadelphia Eagles,Philadelphia Eagles
+15/9/13,Seattle Seahawks,Seattle Seahawks
+15/9/13,Baltimore Ravens,Baltimore Ravens
+15/9/13,Chicago Bears,Chicago Bears
+15/9/13,Oakland Raiders,Oakland Raiders
+15/9/13,Atlanta Falcons,Atlanta Falcons
+15/9/13,Arizona Cardinals,Arizona Cardinals
+15/9/13,Houston Texans,Houston Texans
+15/9/13,Green Bay Packers,Green Bay Packers
+15/9/13,Indianapolis Colts,Indianapolis Colts
+15/9/13,Tampa Bay Buccaneers,Tampa Bay Buccaneers
+15/9/13,New York Giants,New York Giants
+15/9/13,Buffalo Bills,Buffalo Bills
+16/9/13,Cincinnati Bengals,Cincinnati Bengals
+19/9/13,Philadelphia Eagles,Philadelphia Eagles
+22/9/13,Tennessee Titans,Tennessee Titans
+22/9/13,San Francisco 49ers,San Francisco 49ers
+22/9/13,Minnesota Vikings,Minnesota Vikings
+22/9/13,Cincinnati Bengals,Cincinnati Bengals
+22/9/13,New England Patriots,New England Patriots
+22/9/13,Pittsburgh Steelers,Pittsburgh Steelers
+22/9/13,Seattle Seahawks,Seattle Seahawks
+22/9/13,Carolina Panthers,Carolina Panthers
+22/9/13,New Orleans Saints,New Orleans Saints
+22/9/13,Miami Dolphins,Miami Dolphins
+22/9/13,Washington Redskins,Washington Redskins
+22/9/13,Dallas Cowboys,Dallas Cowboys
+22/9/13,Baltimore Ravens,Baltimore Ravens
+22/9/13,New York Jets,New York Jets
+23/9/13,Denver Broncos,Denver Broncos
+26/9/13,St. Louis Rams,St. Louis Rams
+29/9/13,Kansas City Chiefs,Kansas City Chiefs
+29/9/13,Oakland Raiders,Oakland Raiders
+29/9/13,Denver Broncos,Denver Broncos
+29/9/13,Buffalo Bills,Buffalo Bills
+29/9/13,Cleveland Browns,Cleveland Browns
+29/9/13,Minnesota Vikings,Minnesota Vikings
+29/9/13,Houston Texans,Houston Texans
+29/9/13,Jacksonville Jaguars,Jacksonville Jaguars
+29/9/13,Detroit Lions,Detroit Lions
+29/9/13,Atlanta Falcons,Atlanta Falcons
+29/9/13,San Diego Chargers,San Diego Chargers
+29/9/13,Tampa Bay Buccaneers,Tampa Bay Buccaneers
+29/9/13,Tennessee Titans,Tennessee Titans
+30/9/13,New Orleans Saints,New Orleans Saints
+3/10/13,Cleveland Browns,Cleveland Browns
+6/10/13,Arizona Cardinals,Arizona Cardinals
+6/10/13,Green Bay Packers,Green Bay Packers
+6/10/13,Indianapolis Colts,Indianapolis Colts
+6/10/13,Tennessee Titans,Tennessee Titans
+6/10/13,Miami Dolphins,Miami Dolphins
+6/10/13,San Francisco 49ers,San Francisco 49ers
+6/10/13,Chicago Bears,Chicago Bears
+6/10/13,Oakland Raiders,Oakland Raiders
+6/10/13,New York Giants,New York Giants
+6/10/13,St. Louis Rams,St. Louis Rams
+6/10/13,Cincinnati Bengals,Cincinnati Bengals
+6/10/13,Dallas Cowboys,Dallas Cowboys
+7/10/13,Atlanta Falcons,Atlanta Falcons
+10/10/13,Chicago Bears,Chicago Bears
+13/10/13,Minnesota Vikings,Minnesota Vikings
+13/10/13,Baltimore Ravens,Baltimore Ravens
+13/10/13,Houston Texans,Houston Texans
+13/10/13,Kansas City Chiefs,Kansas City Chiefs
+13/10/13,Dallas Cowboys,Dallas Cowboys
+13/10/13,Denver Broncos,Denver Broncos
+13/10/13,Buffalo Bills,Buffalo Bills
+13/10/13,Tampa Bay Buccaneers,Tampa Bay Buccaneers
+13/10/13,New York Jets,New York Jets
+13/10/13,Cleveland Browns,Cleveland Browns
+13/10/13,Seattle Seahawks,Seattle Seahawks
+13/10/13,San Francisco 49ers,San Francisco 49ers
+13/10/13,New England Patriots,New England Patriots
+14/10/13,San Diego Chargers,San Diego Chargers
+17/10/13,Arizona Cardinals,Arizona Cardinals
+20/10/13,Carolina Panthers,Carolina Panthers
+20/10/13,Atlanta Falcons,Atlanta Falcons
+20/10/13,Pittsburgh Steelers,Pittsburgh Steelers
+20/10/13,Tennessee Titans,Tennessee Titans
+20/10/13,Miami Dolphins,Miami Dolphins
+20/10/13,New York Jets,New York Jets
+20/10/13,Detroit Lions,Detroit Lions
+20/10/13,Jacksonville Jaguars,Jacksonville Jaguars
+20/10/13,Kansas City Chiefs,Kansas City Chiefs
+20/10/13,Washington Redskins,Washington Redskins
+20/10/13,Green Bay Packers,Green Bay Packers
+20/10/13,Indianapolis Colts,Indianapolis Colts
+20/10/13,Philadelphia Eagles,Philadelphia Eagles
+21/10/13,New York Giants,New York Giants
+24/10/13,Tampa Bay Buccaneers,Tampa Bay Buccaneers
+27/10/13,New England Patriots,New England Patriots
+27/10/13,Arizona Cardinals,Arizona Cardinals
+27/10/13,Minnesota Vikings,Minnesota Vikings
+27/10/13,Oakland Raiders,Oakland Raiders
+27/10/13,Detroit Lions,Detroit Lions
+27/10/13,Cincinnati Bengals,Cincinnati Bengals
+27/10/13,Philadelphia Eagles,Philadelphia Eagles
+27/10/13,New Orleans Saints,New Orleans Saints
+27/10/13,Jacksonville Jaguars,Jacksonville Jaguars
+27/10/13,Denver Broncos,Denver Broncos
+27/10/13,Kansas City Chiefs,Kansas City Chiefs
+28/10/13,St. Louis Rams,St. Louis Rams
+31/10/13,Miami Dolphins,Miami Dolphins
+3/11/13,St. Louis Rams,St. Louis Rams
+3/11/13,Houston Texans,Houston Texans
+3/11/13,Washington Redskins,Washington Redskins
+3/11/13,New York Jets,New York Jets
+3/11/13,Carolina Panthers,Carolina Panthers
+3/11/13,Buffalo Bills,Buffalo Bills
+3/11/13,Seattle Seahawks,Seattle Seahawks
+3/11/13,New England Patriots,New England Patriots
+3/11/13,Cleveland Browns,Cleveland Browns
+3/11/13,Dallas Cowboys,Dallas Cowboys
+3/11/13,Oakland Raiders,Oakland Raiders
+4/11/13,Green Bay Packers,Green Bay Packers
+7/11/13,Minnesota Vikings,Minnesota Vikings
+10/11/13,San Francisco 49ers,San Francisco 49ers
+10/11/13,Indianapolis Colts,Indianapolis Colts
+10/11/13,Atlanta Falcons,Atlanta Falcons
+10/11/13,Tennessee Titans,Tennessee Titans
+10/11/13,San Diego Chargers,San Diego Chargers
+10/11/13,New York Giants,New York Giants
+10/11/13,Chicago Bears,Chicago Bears
+10/11/13,Green Bay Packers,Green Bay Packers
+10/11/13,Arizona Cardinals,Arizona Cardinals
+10/11/13,Baltimore Ravens,Baltimore Ravens
+10/11/13,Pittsburgh Steelers,Pittsburgh Steelers
+10/11/13,New Orleans Saints,New Orleans Saints
+11/11/13,Tampa Bay Buccaneers,Tampa Bay Buccaneers
+14/11/13,Tennessee Titans,Tennessee Titans
+17/11/13,New Orleans Saints,New Orleans Saints
+17/11/13,Seattle Seahawks,Seattle Seahawks
+17/11/13,Denver Broncos,Denver Broncos
+17/11/13,Houston Texans,Houston Texans
+17/11/13,New York Giants,New York Giants
+17/11/13,Miami Dolphins,Miami Dolphins
+17/11/13,Jacksonville Jaguars,Jacksonville Jaguars
+17/11/13,Chicago Bears,Chicago Bears
+17/11/13,Tampa Bay Buccaneers,Tampa Bay Buccaneers
+17/11/13,Pittsburgh Steelers,Pittsburgh Steelers
+17/11/13,Buffalo Bills,Buffalo Bills
+17/11/13,Philadelphia Eagles,Philadelphia Eagles
+17/11/13,Cincinnati Bengals,Cincinnati Bengals
+18/11/13,Carolina Panthers,Carolina Panthers
+21/11/13,Atlanta Falcons,Atlanta Falcons
+24/11/13,Kansas City Chiefs,Kansas City Chiefs
+24/11/13,Cleveland Browns,Cleveland Browns
+24/11/13,Arizona Cardinals,Arizona Cardinals
+24/11/13,Baltimore Ravens,Baltimore Ravens
+24/11/13,New England Patriots,New England Patriots
+24/11/13,Oakland Raiders,Oakland Raiders
+24/11/13,Miami Dolphins,Miami Dolphins
+24/11/13,St. Louis Rams,St. Louis Rams
+24/11/13,Green Bay Packers,Green Bay Packers
+24/11/13,Houston Texans,Houston Texans
+24/11/13,Detroit Lions,Detroit Lions
+24/11/13,New York Giants,New York Giants
+25/11/13,Washington Redskins,Washington Redskins
+28/11/13,Dallas Cowboys,Dallas Cowboys
+28/11/13,Baltimore Ravens,Baltimore Ravens
+28/11/13,Detroit Lions,Detroit Lions
+1/12/13,Carolina Panthers,Carolina Panthers
+1/12/13,Cleveland Browns,Cleveland Browns
+1/12/13,New York Jets,New York Jets
+1/12/13,Washington Redskins,Washington Redskins
+1/12/13,Minnesota Vikings,Minnesota Vikings
+1/12/13,Kansas City Chiefs,Kansas City Chiefs
+1/12/13,San Diego Chargers,San Diego Chargers
+1/12/13,Indianapolis Colts,Indianapolis Colts
+1/12/13,San Francisco 49ers,San Francisco 49ers
+1/12/13,Buffalo Bills,Buffalo Bills
+1/12/13,Houston Texans,Houston Texans
+1/12/13,Philadelphia Eagles,Philadelphia Eagles
+2/12/13,Seattle Seahawks,Seattle Seahawks
+5/12/13,Jacksonville Jaguars,Jacksonville Jaguars
+8/12/13,San Diego Chargers,San Diego Chargers
+8/12/13,Pittsburgh Steelers,Pittsburgh Steelers
+8/12/13,San Francisco 49ers,San Francisco 49ers
+8/12/13,Baltimore Ravens,Baltimore Ravens
+8/12/13,Cincinnati Bengals,Cincinnati Bengals
+8/12/13,Philadelphia Eagles,Philadelphia Eagles
+8/12/13,Washington Redskins,Washington Redskins
+8/12/13,New England Patriots,New England Patriots
+8/12/13,Denver Broncos,Denver Broncos
+8/12/13,Tampa Bay Buccaneers,Tampa Bay Buccaneers
+8/12/13,New Orleans Saints,New Orleans Saints
+8/12/13,New York Jets,New York Jets
+8/12/13,Arizona Cardinals,Arizona Cardinals
+8/12/13,Green Bay Packers,Green Bay Packers
+9/12/13,Chicago Bears,Chicago Bears
+12/12/13,Denver Broncos,Denver Broncos
+15/12/13,St. Louis Rams,St. Louis Rams
+15/12/13,New York Giants,New York Giants
+15/12/13,Cleveland Browns,Cleveland Browns
+15/12/13,Tampa Bay Buccaneers,Tampa Bay Buccaneers
+15/12/13,Carolina Panthers,Carolina Panthers
+15/12/13,Jacksonville Jaguars,Jacksonville Jaguars
+15/12/13,Atlanta Falcons,Atlanta Falcons
+15/12/13,Miami Dolphins,Miami Dolphins
+15/12/13,Oakland Raiders,Oakland Raiders
+15/12/13,Indianapolis Colts,Indianapolis Colts
+15/12/13,Dallas Cowboys,Dallas Cowboys
+15/12/13,Tennessee Titans,Tennessee Titans
+15/12/13,Pittsburgh Steelers,Pittsburgh Steelers
+15/12/13,Minnesota Vikings,Minnesota Vikings
+16/12/13,Detroit Lions,Detroit Lions
+22/12/13,Jacksonville Jaguars,Jacksonville Jaguars
+22/12/13,Green Bay Packers,Green Bay Packers
+22/12/13,Kansas City Chiefs,Kansas City Chiefs
+22/12/13,New York Jets,New York Jets
+22/12/13,Houston Texans,Houston Texans
+22/12/13,Washington Redskins,Washington Redskins
+22/12/13,Carolina Panthers,Carolina Panthers
+22/12/13,Buffalo Bills,Buffalo Bills
+22/12/13,Detroit Lions,Detroit Lions
+22/12/13,Seattle Seahawks,Seattle Seahawks
+22/12/13,St. Louis Rams,St. Louis Rams
+22/12/13,Baltimore Ravens,Baltimore Ravens
+22/12/13,Cincinnati Bengals,Cincinnati Bengals
+22/12/13,Philadelphia Eagles,Philadelphia Eagles
+22/12/13,San Diego Chargers,San Diego Chargers
+23/12/13,San Francisco 49ers,San Francisco 49ers
+29/12/13,Miami Dolphins,Miami Dolphins
+29/12/13,Indianapolis Colts,Indianapolis Colts
+29/12/13,Atlanta Falcons,Atlanta Falcons
+29/12/13,Arizona Cardinals,Arizona Cardinals
+29/12/13,Seattle Seahawks,Seattle Seahawks
+29/12/13,Tennessee Titans,Tennessee Titans
+29/12/13,Oakland Raiders,Oakland Raiders
+29/12/13,Minnesota Vikings,Minnesota Vikings
+29/12/13,Cincinnati Bengals,Cincinnati Bengals
+29/12/13,New York Giants,New York Giants
+29/12/13,San Diego Chargers,San Diego Chargers
+29/12/13,Chicago Bears,Chicago Bears
+29/12/13,Dallas Cowboys,Dallas Cowboys
+29/12/13,New Orleans Saints,New Orleans Saints
+29/12/13,Pittsburgh Steelers,Pittsburgh Steelers
+29/12/13,New England Patriots,New England Patriots
+4/1/14,Indianapolis Colts,Indianapolis Colts
+4/1/14,Philadelphia Eagles,Philadelphia Eagles
+5/1/14,Cincinnati Bengals,Cincinnati Bengals
+5/1/14,Green Bay Packers,Green Bay Packers
+11/1/14,Seattle Seahawks,Seattle Seahawks
+11/1/14,New England Patriots,New England Patriots
+12/1/14,Denver Broncos,Denver Broncos
+12/1/14,Carolina Panthers,Carolina Panthers
+19/1/14,Denver Broncos,Denver Broncos
+19/1/14,Seattle Seahawks,Seattle Seahawks
+2/2/14,Superbowl 2014,Seattle Seahawks
+4/9/14,Seattle Seahawks,Seattle Seahawks
+7/9/14,Atlanta Falcons,Atlanta Falcons
+7/9/14,Houston Texans,Houston Texans
+7/9/14,Tampa Bay Buccaneers,Tampa Bay Buccaneers
+7/9/14,Chicago Bears,Chicago Bears
+7/9/14,Dallas Cowboys,Dallas Cowboys
+7/9/14,Denver Broncos,Denver Broncos
+7/9/14,Pittsburgh Steelers,Pittsburgh Steelers
+7/9/14,Baltimore Ravens,Baltimore Ravens
+7/9/14,Philadelphia Eagles,Philadelphia Eagles
+7/9/14,Kansas City Chiefs,Kansas City Chiefs
+7/9/14,Miami Dolphins,Miami Dolphins
+7/9/14,St. Louis Rams,St. Louis Rams
+7/9/14,New York Jets,New York Jets
+8/9/14,Detroit Lions,Detroit Lions
+8/9/14,Arizona Cardinals,Arizona Cardinals
+11/9/14,Baltimore Ravens,Baltimore Ravens
+14/9/14,Tampa Bay Buccaneers,Tampa Bay Buccaneers
+14/9/14,San Francisco 49ers,San Francisco 49ers
+14/9/14,Cleveland Browns,Cleveland Browns
+14/9/14,Carolina Panthers,Carolina Panthers
+14/9/14,San Diego Chargers,San Diego Chargers
+14/9/14,Oakland Raiders,Oakland Raiders
+14/9/14,New York Giants,New York Giants
+14/9/14,Tennessee Titans,Tennessee Titans
+14/9/14,Minnesota Vikings,Minnesota Vikings
+14/9/14,Denver Broncos,Denver Broncos
+14/9/14,Green Bay Packers,Green Bay Packers
+14/9/14,Washington Redskins,Washington Redskins
+14/9/14,Cincinnati Bengals,Cincinnati Bengals
+14/9/14,Buffalo Bills,Buffalo Bills
+15/9/14,Indianapolis Colts,Indianapolis Colts
+18/9/14,Atlanta Falcons,Atlanta Falcons
+21/9/14,Seattle Seahawks,Seattle Seahawks
+21/9/14,Jacksonville Jaguars,Jacksonville Jaguars
+21/9/14,Detroit Lions,Detroit Lions
+21/9/14,Cleveland Browns,Cleveland Browns
+21/9/14,New Orleans Saints,New Orleans Saints
+21/9/14,Philadelphia Eagles,Philadelphia Eagles
+21/9/14,Cincinnati Bengals,Cincinnati Bengals
+21/9/14,Miami Dolphins,Miami Dolphins
+21/9/14,New England Patriots,New England Patriots
+21/9/14,St. Louis Rams,St. Louis Rams
+21/9/14,Carolina Panthers,Carolina Panthers
+21/9/14,Buffalo Bills,Buffalo Bills
+21/9/14,New York Giants,New York Giants
+21/9/14,Arizona Cardinals,Arizona Cardinals
+22/9/14,New York Jets,New York Jets
+25/9/14,Washington Redskins,Washington Redskins
+28/9/14,San Diego Chargers,San Diego Chargers
+28/9/14,Dallas Cowboys,Dallas Cowboys
+28/9/14,San Francisco 49ers,San Francisco 49ers
+28/9/14,New York Jets,New York Jets
+28/9/14,Oakland Raiders,Oakland Raiders
+28/9/14,Houston Texans,Houston Texans
+28/9/14,Chicago Bears,Chicago Bears
+28/9/14,Minnesota Vikings,Minnesota Vikings
+28/9/14,Pittsburgh Steelers,Pittsburgh Steelers
+28/9/14,Baltimore Ravens,Baltimore Ravens
+28/9/14,Indianapolis Colts,Indianapolis Colts
+29/9/14,Kansas City Chiefs,Kansas City Chiefs
+2/10/14,Green Bay Packers,Green Bay Packers
+5/10/14,Tennessee Titans,Tennessee Titans
+5/10/14,Denver Broncos,Denver Broncos
+5/10/14,New England Patriots,New England Patriots
+5/10/14,Jacksonville Jaguars,Jacksonville Jaguars
+5/10/14,Detroit Lions,Detroit Lions
+5/10/14,San Francisco 49ers,San Francisco 49ers
+5/10/14,Carolina Panthers,Carolina Panthers
+5/10/14,Philadelphia Eagles,Philadelphia Eagles
+5/10/14,Dallas Cowboys,Dallas Cowboys
+5/10/14,Indianapolis Colts,Indianapolis Colts
+5/10/14,New York Giants,New York Giants
+5/10/14,New Orleans Saints,New Orleans Saints
+5/10/14,San Diego Chargers,San Diego Chargers
+6/10/14,Washington Redskins,Washington Redskins
+9/10/14,Houston Texans,Houston Texans
+12/10/14,Oakland Raiders,Oakland Raiders
+12/10/14,New York Jets,New York Jets
+12/10/14,Arizona Cardinals,Arizona Cardinals
+12/10/14,Cleveland Browns,Cleveland Browns
+12/10/14,Cincinnati Bengals,Cincinnati Bengals
+12/10/14,Seattle Seahawks,Seattle Seahawks
+12/10/14,Tampa Bay Buccaneers,Tampa Bay Buccaneers
+12/10/14,Tennessee Titans,Tennessee Titans
+12/10/14,Philadelphia Eagles,Philadelphia Eagles
+12/10/14,Atlanta Falcons,Atlanta Falcons
+12/10/14,Miami Dolphins,Miami Dolphins
+12/10/14,Minnesota Vikings,Minnesota Vikings
+12/10/14,Buffalo Bills,Buffalo Bills
+13/10/14,St. Louis Rams,St. Louis Rams
+16/10/14,New England Patriots,New England Patriots
+19/10/14,San Diego Chargers,San Diego Chargers
+19/10/14,Oakland Raiders,Oakland Raiders
+19/10/14,Indianapolis Colts,Indianapolis Colts
+19/10/14,St. Louis Rams,St. Louis Rams
+19/10/14,Jacksonville Jaguars,Jacksonville Jaguars
+19/10/14,Denver Broncos,Denver Broncos
+19/10/14,Dallas Cowboys,Dallas Cowboys
+19/10/14,Green Bay Packers,Green Bay Packers
+19/10/14,Washington Redskins,Washington Redskins
+19/10/14,Detroit Lions,Detroit Lions
+19/10/14,Buffalo Bills,Buffalo Bills
+19/10/14,Chicago Bears,Chicago Bears
+19/10/14,Baltimore Ravens,Baltimore Ravens
+20/10/14,Pittsburgh Steelers,Pittsburgh Steelers
+23/10/14,Denver Broncos,Denver Broncos
+26/10/14,Kansas City Chiefs,Kansas City Chiefs
+26/10/14,Arizona Cardinals,Arizona Cardinals
+26/10/14,Cleveland Browns,Cleveland Browns
+26/10/14,Cincinnati Bengals,Cincinnati Bengals
+26/10/14,Jacksonville Jaguars,Jacksonville Jaguars
+26/10/14,Tampa Bay Buccaneers,Tampa Bay Buccaneers
+26/10/14,New York Jets,New York Jets
+26/10/14,New England Patriots,New England Patriots
+26/10/14,New Orleans Saints,New Orleans Saints
+26/10/14,Tennessee Titans,Tennessee Titans
+26/10/14,Pittsburgh Steelers,Pittsburgh Steelers
+26/10/14,Carolina Panthers,Carolina Panthers
+26/10/14,Atlanta Falcons,Atlanta Falcons
+27/10/14,Dallas Cowboys,Dallas Cowboys
+30/10/14,Carolina Panthers,Carolina Panthers
+2/11/14,Kansas City Chiefs,Kansas City Chiefs
+2/11/14,Seattle Seahawks,Seattle Seahawks
+2/11/14,Dallas Cowboys,Dallas Cowboys
+2/11/14,New England Patriots,New England Patriots
+2/11/14,Cincinnati Bengals,Cincinnati Bengals
+2/11/14,Cleveland Browns,Cleveland Browns
+2/11/14,Miami Dolphins,Miami Dolphins
+2/11/14,San Francisco 49ers,San Francisco 49ers
+2/11/14,Minnesota Vikings,Minnesota Vikings
+2/11/14,Pittsburgh Steelers,Pittsburgh Steelers
+2/11/14,Houston Texans,Houston Texans
+3/11/14,New York Giants,New York Giants
+6/11/14,Cincinnati Bengals,Cincinnati Bengals
+9/11/14,Oakland Raiders,Oakland Raiders
+9/11/14,Buffalo Bills,Buffalo Bills
+9/11/14,New Orleans Saints,New Orleans Saints
+9/11/14,Detroit Lions,Detroit Lions
+9/11/14,Green Bay Packers,Green Bay Packers
+9/11/14,Baltimore Ravens,Baltimore Ravens
+9/11/14,Seattle Seahawks,Seattle Seahawks
+9/11/14,Tampa Bay Buccaneers,Tampa Bay Buccaneers
+9/11/14,Arizona Cardinals,Arizona Cardinals
+9/11/14,New York Jets,New York Jets
+9/11/14,Jacksonville Jaguars,Jacksonville Jaguars
+10/11/14,Philadelphia Eagles,Philadelphia Eagles
+13/11/14,Miami Dolphins,Miami Dolphins
+16/11/14,New Orleans Saints,New Orleans Saints
+16/11/14,Green Bay Packers,Green Bay Packers
+16/11/14,Arizona Cardinals,Arizona Cardinals
+16/11/14,New York Giants,New York Giants
+16/11/14,Indianapolis Colts,Indianapolis Colts
+16/11/14,Kansas City Chiefs,Kansas City Chiefs
+16/11/14,Cleveland Browns,Cleveland Browns
+16/11/14,Chicago Bears,Chicago Bears
+16/11/14,Washington Redskins,Washington Redskins
+16/11/14,Carolina Panthers,Carolina Panthers
+16/11/14,San Diego Chargers,San Diego Chargers
+16/11/14,St. Louis Rams,St. Louis Rams
+17/11/14,Tennessee Titans,Tennessee Titans
+20/11/14,Oakland Raiders,Oakland Raiders
+23/11/14,Indianapolis Colts,Indianapolis Colts
+23/11/14,Atlanta Falcons,Atlanta Falcons
+23/11/14,Chicago Bears,Chicago Bears
+23/11/14,San Diego Chargers,San Diego Chargers
+23/11/14,New England Patriots,New England Patriots
+23/11/14,Denver Broncos,Denver Broncos
+23/11/14,New York Giants,New York Giants
+23/11/14,Philadelphia Eagles,Philadelphia Eagles
+23/11/14,San Francisco 49ers,San Francisco 49ers
+23/11/14,Houston Texans,Houston Texans
+23/11/14,Seattle Seahawks,Seattle Seahawks
+23/11/14,Minnesota Vikings,Minnesota Vikings
+24/11/14,New Orleans Saints,New Orleans Saints
+24/11/14,Buffalo Bills,Buffalo Bills
+27/11/14,Detroit Lions,Detroit Lions
+27/11/14,San Francisco 49ers,San Francisco 49ers
+27/11/14,Dallas Cowboys,Dallas Cowboys
+30/11/14,Tampa Bay Buccaneers,Tampa Bay Buccaneers
+30/11/14,Pittsburgh Steelers,Pittsburgh Steelers
+30/11/14,Jacksonville Jaguars,Jacksonville Jaguars
+30/11/14,Houston Texans,Houston Texans
+30/11/14,Buffalo Bills,Buffalo Bills
+30/11/14,Indianapolis Colts,Indianapolis Colts
+30/11/14,Atlanta Falcons,Atlanta Falcons
+30/11/14,St. Louis Rams,St. Louis Rams
+30/11/14,Baltimore Ravens,Baltimore Ravens
+30/11/14,Minnesota Vikings,Minnesota Vikings
+30/11/14,Green Bay Packers,Green Bay Packers
+30/11/14,Kansas City Chiefs,Kansas City Chiefs
+1/12/14,New York Jets,New York Jets
+4/12/14,Chicago Bears,Chicago Bears
+7/12/14,Minnesota Vikings,Minnesota Vikings
+7/12/14,Denver Broncos,Denver Broncos
+7/12/14,Washington Redskins,Washington Redskins
+7/12/14,San Diego Chargers,San Diego Chargers
+7/12/14,Detroit Lions,Detroit Lions
+7/12/14,Arizona Cardinals,Arizona Cardinals
+7/12/14,Philadelphia Eagles,Philadelphia Eagles
+7/12/14,Cincinnati Bengals,Cincinnati Bengals
+7/12/14,Cleveland Browns,Cleveland Browns
+7/12/14,Oakland Raiders,Oakland Raiders
+7/12/14,New Orleans Saints,New Orleans Saints
+7/12/14,Jacksonville Jaguars,Jacksonville Jaguars
+7/12/14,Tennessee Titans,Tennessee Titans
+7/12/14,Miami Dolphins,Miami Dolphins
+8/12/14,Green Bay Packers,Green Bay Packers
+11/12/14,St. Louis Rams,St. Louis Rams
+14/12/14,Cleveland Browns,Cleveland Browns
+14/12/14,Seattle Seahawks,Seattle Seahawks
+14/12/14,New York Giants,New York Giants
+14/12/14,Philadelphia Eagles,Philadelphia Eagles
+14/12/14,Tennessee Titans,Tennessee Titans
+14/12/14,San Diego Chargers,San Diego Chargers
+14/12/14,Kansas City Chiefs,Kansas City Chiefs
+14/12/14,Carolina Panthers,Carolina Panthers
+14/12/14,New England Patriots,New England Patriots
+14/12/14,Buffalo Bills,Buffalo Bills
+14/12/14,Baltimore Ravens,Baltimore Ravens
+14/12/14,Indianapolis Colts,Indianapolis Colts
+14/12/14,Atlanta Falcons,Atlanta Falcons
+14/12/14,Detroit Lions,Detroit Lions
+15/12/14,Chicago Bears,Chicago Bears
+18/12/14,Jacksonville Jaguars,Jacksonville Jaguars
+20/12/14,Washington Redskins,Washington Redskins
+20/12/14,San Francisco 49ers,San Francisco 49ers
+21/12/14,Carolina Panthers,Carolina Panthers
+21/12/14,Oakland Raiders,Oakland Raiders
+21/12/14,Dallas Cowboys,Dallas Cowboys
+21/12/14,Pittsburgh Steelers,Pittsburgh Steelers
+21/12/14,Houston Texans,Houston Texans
+21/12/14,Tampa Bay Buccaneers,Tampa Bay Buccaneers
+21/12/14,Arizona Cardinals,Arizona Cardinals
+21/12/14,Miami Dolphins,Miami Dolphins
+21/12/14,New Orleans Saints,New Orleans Saints
+21/12/14,New York Jets,New York Jets
+21/12/14,St. Louis Rams,St. Louis Rams
+21/12/14,Chicago Bears,Chicago Bears
+22/12/14,Cincinnati Bengals,Cincinnati Bengals
+28/12/14,San Francisco 49ers,San Francisco 49ers
+28/12/14,Tennessee Titans,Tennessee Titans
+28/12/14,Atlanta Falcons,Atlanta Falcons
+28/12/14,Seattle Seahawks,Seattle Seahawks
+28/12/14,Washington Redskins,Washington Redskins
+28/12/14,Green Bay Packers,Green Bay Packers
+28/12/14,Denver Broncos,Denver Broncos
+28/12/14,New England Patriots,New England Patriots
+28/12/14,Houston Texans,Houston Texans
+28/12/14,New York Giants,New York Giants
+28/12/14,Kansas City Chiefs,Kansas City Chiefs
+28/12/14,Miami Dolphins,Miami Dolphins
+28/12/14,Tampa Bay Buccaneers,Tampa Bay Buccaneers
+28/12/14,Pittsburgh Steelers,Pittsburgh Steelers
+28/12/14,Minnesota Vikings,Minnesota Vikings
+28/12/14,Baltimore Ravens,Baltimore Ravens
+3/1/15,Pittsburgh Steelers,Pittsburgh Steelers
+3/1/15,Carolina Panthers,Carolina Panthers
+4/1/15,Dallas Cowboys,Dallas Cowboys
+4/1/15,Indianapolis Colts,Indianapolis Colts
+10/1/15,New England Patriots,New England Patriots
+10/1/15,Seattle Seahawks,Seattle Seahawks
+11/1/15,Denver Broncos,Denver Broncos
+11/1/15,Green Bay Packers,Green Bay Packers
+18/1/15,Seattle Seahawks,Seattle Seahawks
+18/1/15,New England Patriots,New England Patriots
+1/2/15,Superbowl 2015,Seattle Seahawks
+10/9/15,New England Patriots,New England Patriots
+13/9/15,San Diego Chargers,San Diego Chargers
+13/9/15,Buffalo Bills,Buffalo Bills
+13/9/15,New York Jets,New York Jets
+13/9/15,Oakland Raiders,Oakland Raiders
+13/9/15,Arizona Cardinals,Arizona Cardinals
+13/9/15,Jacksonville Jaguars,Jacksonville Jaguars
+13/9/15,Denver Broncos,Denver Broncos
+13/9/15,Dallas Cowboys,Dallas Cowboys
+13/9/15,St. Louis Rams,St. Louis Rams
+13/9/15,Houston Texans,Houston Texans
+13/9/15,Chicago Bears,Chicago Bears
+13/9/15,Washington Redskins,Washington Redskins
+13/9/15,Tampa Bay Buccaneers,Tampa Bay Buccaneers
+14/9/15,San Francisco 49ers,San Francisco 49ers
+14/9/15,Atlanta Falcons,Atlanta Falcons
+17/9/15,Kansas City Chiefs,Kansas City Chiefs
+20/9/15,New York Giants,New York Giants
+20/9/15,Buffalo Bills,Buffalo Bills
+20/9/15,New Orleans Saints,New Orleans Saints
+20/9/15,Washington Redskins,Washington Redskins
+20/9/15,Carolina Panthers,Carolina Panthers
+20/9/15,Minnesota Vikings,Minnesota Vikings
+20/9/15,Cincinnati Bengals,Cincinnati Bengals
+20/9/15,Cleveland Browns,Cleveland Browns
+20/9/15,Oakland Raiders,Oakland Raiders
+20/9/15,Green Bay Packers,Green Bay Packers
+20/9/15,Chicago Bears,Chicago Bears
+20/9/15,Pittsburgh Steelers,Pittsburgh Steelers
+20/9/15,Philadelphia Eagles,Philadelphia Eagles
+20/9/15,Jacksonville Jaguars,Jacksonville Jaguars
+21/9/15,Indianapolis Colts,Indianapolis Colts
+24/9/15,New York Giants,New York Giants
+27/9/15,Houston Texans,Houston Texans
+27/9/15,St. Louis Rams,St. Louis Rams
+27/9/15,Carolina Panthers,Carolina Panthers
+27/9/15,Miami Dolphins,Miami Dolphins
+27/9/15,New York Jets,New York Jets
+27/9/15,Arizona Cardinals,Arizona Cardinals
+27/9/15,Dallas Cowboys,Dallas Cowboys
+27/9/15,New England Patriots,New England Patriots
+27/9/15,Minnesota Vikings,Minnesota Vikings
+27/9/15,Cleveland Browns,Cleveland Browns
+27/9/15,Seattle Seahawks,Seattle Seahawks
+27/9/15,Tennessee Titans,Tennessee Titans
+27/9/15,Baltimore Ravens,Baltimore Ravens
+27/9/15,Detroit Lions,Detroit Lions
+28/9/15,Green Bay Packers,Green Bay Packers
+1/10/15,Pittsburgh Steelers,Pittsburgh Steelers
+4/10/15,Indianapolis Colts,Indianapolis Colts
+4/10/15,Cincinnati Bengals,Cincinnati Bengals
+4/10/15,San Diego Chargers,San Diego Chargers
+4/10/15,Denver Broncos,Denver Broncos
+4/10/15,Buffalo Bills,Buffalo Bills
+4/10/15,Atlanta Falcons,Atlanta Falcons
+4/10/15,Miami Dolphins,Miami Dolphins
+4/10/15,Chicago Bears,Chicago Bears
+4/10/15,New Orleans Saints,New Orleans Saints
+4/10/15,Tampa Bay Buccaneers,Tampa Bay Buccaneers
+4/10/15,San Francisco 49ers,San Francisco 49ers
+4/10/15,Arizona Cardinals,Arizona Cardinals
+4/10/15,Washington Redskins,Washington Redskins
+5/10/15,Seattle Seahawks,Seattle Seahawks
+8/10/15,Houston Texans,Houston Texans
+11/10/15,Baltimore Ravens,Baltimore Ravens
+11/10/15,Tennessee Titans,Tennessee Titans
+11/10/15,Cincinnati Bengals,Cincinnati Bengals
+11/10/15,Kansas City Chiefs,Kansas City Chiefs
+11/10/15,New York Giants,New York Giants
+11/10/15,Philadelphia Eagles,Philadelphia Eagles
+11/10/15,Oakland Raiders,Oakland Raiders
+11/10/15,Detroit Lions,Detroit Lions
+11/10/15,Atlanta Falcons,Atlanta Falcons
+11/10/15,Dallas Cowboys,Dallas Cowboys
+11/10/15,Tampa Bay Buccaneers,Tampa Bay Buccaneers
+11/10/15,Green Bay Packers,Green Bay Packers
+12/10/15,San Diego Chargers,San Diego Chargers
+15/10/15,New Orleans Saints,New Orleans Saints
+18/10/15,Tennessee Titans,Tennessee Titans
+18/10/15,New York Jets,New York Jets
+18/10/15,Seattle Seahawks,Seattle Seahawks
+18/10/15,Cleveland Browns,Cleveland Browns
+18/10/15,Buffalo Bills,Buffalo Bills
+18/10/15,Jacksonville Jaguars,Jacksonville Jaguars
+18/10/15,San Francisco 49ers,San Francisco 49ers
+18/10/15,Minnesota Vikings,Minnesota Vikings
+18/10/15,Indianapolis Colts,Indianapolis Colts
+18/10/15,Green Bay Packers,Green Bay Packers
+18/10/15,Detroit Lions,Detroit Lions
+18/10/15,Pittsburgh Steelers,Pittsburgh Steelers
+19/10/15,Philadelphia Eagles,Philadelphia Eagles
+22/10/15,San Francisco 49ers,San Francisco 49ers
+25/10/15,New York Giants,New York Giants
+25/10/15,San Diego Chargers,San Diego Chargers
+25/10/15,Washington Redskins,Washington Redskins
+25/10/15,New England Patriots,New England Patriots
+25/10/15,Carolina Panthers,Carolina Panthers
+25/10/15,St. Louis Rams,St. Louis Rams
+25/10/15,Indianapolis Colts,Indianapolis Colts
+25/10/15,Tennessee Titans,Tennessee Titans
+25/10/15,Jacksonville Jaguars,Jacksonville Jaguars
+25/10/15,Kansas City Chiefs,Kansas City Chiefs
+25/10/15,Detroit Lions,Detroit Lions
+25/10/15,Miami Dolphins,Miami Dolphins
+26/10/15,Arizona Cardinals,Arizona Cardinals
+29/10/15,New England Patriots,New England Patriots
+1/11/15,Chicago Bears,Chicago Bears
+1/11/15,Dallas Cowboys,Dallas Cowboys
+1/11/15,St. Louis Rams,St. Louis Rams
+1/11/15,Oakland Raiders,Oakland Raiders
+1/11/15,Pittsburgh Steelers,Pittsburgh Steelers
+1/11/15,Denver Broncos,Denver Broncos
+1/11/15,Houston Texans,Houston Texans
+1/11/15,Kansas City Chiefs,Kansas City Chiefs
+1/11/15,Cleveland Browns,Cleveland Browns
+1/11/15,Baltimore Ravens,Baltimore Ravens
+1/11/15,Atlanta Falcons,Atlanta Falcons
+1/11/15,New Orleans Saints,New Orleans Saints
+2/11/15,Carolina Panthers,Carolina Panthers
+5/11/15,Cincinnati Bengals,Cincinnati Bengals
+8/11/15,Dallas Cowboys,Dallas Cowboys
+8/11/15,Buffalo Bills,Buffalo Bills
+8/11/15,Minnesota Vikings,Minnesota Vikings
+8/11/15,New York Jets,New York Jets
+8/11/15,New England Patriots,New England Patriots
+8/11/15,Carolina Panthers,Carolina Panthers
+8/11/15,Tampa Bay Buccaneers,Tampa Bay Buccaneers
+8/11/15,Indianapolis Colts,Indianapolis Colts
+8/11/15,San Francisco 49ers,San Francisco 49ers
+8/11/15,New Orleans Saints,New Orleans Saints
+8/11/15,Pittsburgh Steelers,Pittsburgh Steelers
+9/11/15,San Diego Chargers,San Diego Chargers
+12/11/15,New York Jets,New York Jets
+15/11/15,St. Louis Rams,St. Louis Rams
+15/11/15,Baltimore Ravens,Baltimore Ravens
+15/11/15,Seattle Seahawks,Seattle Seahawks
+15/11/15,New York Giants,New York Giants
+15/11/15,Tennessee Titans,Tennessee Titans
+15/11/15,Tampa Bay Buccaneers,Tampa Bay Buccaneers
+15/11/15,Oakland Raiders,Oakland Raiders
+15/11/15,Denver Broncos,Denver Broncos
+15/11/15,Philadelphia Eagles,Philadelphia Eagles
+15/11/15,Green Bay Packers,Green Bay Packers
+15/11/15,Washington Redskins,Washington Redskins
+15/11/15,Pittsburgh Steelers,Pittsburgh Steelers
+16/11/15,Cincinnati Bengals,Cincinnati Bengals
+19/11/15,Jacksonville Jaguars,Jacksonville Jaguars
+22/11/15,Atlanta Falcons,Atlanta Falcons
+22/11/15,Philadelphia Eagles,Philadelphia Eagles
+22/11/15,Chicago Bears,Chicago Bears
+22/11/15,Seattle Seahawks,Seattle Seahawks
+22/11/15,Arizona Cardinals,Arizona Cardinals
+22/11/15,Detroit Lions,Detroit Lions
+22/11/15,Carolina Panthers,Carolina Panthers
+22/11/15,Baltimore Ravens,Baltimore Ravens
+22/11/15,Houston Texans,Houston Texans
+22/11/15,Miami Dolphins,Miami Dolphins
+22/11/15,San Diego Chargers,San Diego Chargers
+22/11/15,Minnesota Vikings,Minnesota Vikings
+23/11/15,New England Patriots,New England Patriots
+26/11/15,Dallas Cowboys,Dallas Cowboys
+26/11/15,Green Bay Packers,Green Bay Packers
+26/11/15,Detroit Lions,Detroit Lions
+29/11/15,New York Jets,New York Jets
+29/11/15,Atlanta Falcons,Atlanta Falcons
+29/11/15,Kansas City Chiefs,Kansas City Chiefs
+29/11/15,Jacksonville Jaguars,Jacksonville Jaguars
+29/11/15,Tennessee Titans,Tennessee Titans
+29/11/15,Denver Broncos,Denver Broncos
+29/11/15,Houston Texans,Houston Texans
+29/11/15,Washington Redskins,Washington Redskins
+29/11/15,Cincinnati Bengals,Cincinnati Bengals
+29/11/15,Seattle Seahawks,Seattle Seahawks
+29/11/15,Indianapolis Colts,Indianapolis Colts
+29/11/15,San Francisco 49ers,San Francisco 49ers
+30/11/15,Cleveland Browns,Cleveland Browns
+3/12/15,Detroit Lions,Detroit Lions
+6/12/15,Tampa Bay Buccaneers,Tampa Bay Buccaneers
+6/12/15,Cleveland Browns,Cleveland Browns
+6/12/15,New Orleans Saints,New Orleans Saints
+6/12/15,St. Louis Rams,St. Louis Rams
+6/12/15,Tennessee Titans,Tennessee Titans
+6/12/15,Minnesota Vikings,Minnesota Vikings
+6/12/15,Oakland Raiders,Oakland Raiders
+6/12/15,Miami Dolphins,Miami Dolphins
+6/12/15,New York Giants,New York Giants
+6/12/15,San Diego Chargers,San Diego Chargers
+6/12/15,Pittsburgh Steelers,Pittsburgh Steelers
+6/12/15,Buffalo Bills,Buffalo Bills
+6/12/15,New England Patriots,New England Patriots
+6/12/15,Chicago Bears,Chicago Bears
+7/12/15,Washington Redskins,Washington Redskins
+10/12/15,Arizona Cardinals,Arizona Cardinals
+13/12/15,Tampa Bay Buccaneers,Tampa Bay Buccaneers
+13/12/15,Philadelphia Eagles,Philadelphia Eagles
+13/12/15,Kansas City Chiefs,Kansas City Chiefs
+13/12/15,New York Jets,New York Jets
+13/12/15,Baltimore Ravens,Baltimore Ravens
+13/12/15,Jacksonville Jaguars,Jacksonville Jaguars
+13/12/15,Green Bay Packers,Green Bay Packers
+13/12/15,Cincinnati Bengals,Cincinnati Bengals
+13/12/15,Carolina Panthers,Carolina Panthers
+13/12/15,Cleveland Browns,Cleveland Browns
+13/12/15,Denver Broncos,Denver Broncos
+13/12/15,Houston Texans,Houston Texans
+13/12/15,Chicago Bears,Chicago Bears
+13/12/15,St. Louis Rams,St. Louis Rams
+14/12/15,Miami Dolphins,Miami Dolphins
+17/12/15,St. Louis Rams,St. Louis Rams
+19/12/15,Dallas Cowboys,Dallas Cowboys
+20/12/15,Seattle Seahawks,Seattle Seahawks
+20/12/15,San Diego Chargers,San Diego Chargers
+20/12/15,Washington Redskins,Washington Redskins
+20/12/15,Minnesota Vikings,Minnesota Vikings
+20/12/15,Jacksonville Jaguars,Jacksonville Jaguars
+20/12/15,Baltimore Ravens,Baltimore Ravens
+20/12/15,Philadelphia Eagles,Philadelphia Eagles
+20/12/15,Oakland Raiders,Oakland Raiders
+20/12/15,San Francisco 49ers,San Francisco 49ers
+20/12/15,New England Patriots,New England Patriots
+20/12/15,Indianapolis Colts,Indianapolis Colts
+20/12/15,Pittsburgh Steelers,Pittsburgh Steelers
+20/12/15,New York Giants,New York Giants
+21/12/15,New Orleans Saints,New Orleans Saints
+24/12/15,Oakland Raiders,Oakland Raiders
+26/12/15,Philadelphia Eagles,Philadelphia Eagles
+27/12/15,Tampa Bay Buccaneers,Tampa Bay Buccaneers
+27/12/15,New York Jets,New York Jets
+27/12/15,Miami Dolphins,Miami Dolphins
+27/12/15,Minnesota Vikings,Minnesota Vikings
+27/12/15,Atlanta Falcons,Atlanta Falcons
+27/12/15,Buffalo Bills,Buffalo Bills
+27/12/15,Baltimore Ravens,Baltimore Ravens
+27/12/15,Detroit Lions,Detroit Lions
+27/12/15,Seattle Seahawks,Seattle Seahawks
+27/12/15,Kansas City Chiefs,Kansas City Chiefs
+27/12/15,New Orleans Saints,New Orleans Saints
+27/12/15,Tennessee Titans,Tennessee Titans
+27/12/15,Arizona Cardinals,Arizona Cardinals
+28/12/15,Denver Broncos,Denver Broncos
+3/1/16,Cleveland Browns,Cleveland Browns
+3/1/16,Atlanta Falcons,Atlanta Falcons
+3/1/16,San Francisco 49ers,San Francisco 49ers
+3/1/16,Chicago Bears,Chicago Bears
+3/1/16,Carolina Panthers,Carolina Panthers
+3/1/16,Denver Broncos,Denver Broncos
+3/1/16,New York Giants,New York Giants
+3/1/16,Miami Dolphins,Miami Dolphins
+3/1/16,Houston Texans,Houston Texans
+3/1/16,Dallas Cowboys,Dallas Cowboys
+3/1/16,Buffalo Bills,Buffalo Bills
+3/1/16,Green Bay Packers,Green Bay Packers
+3/1/16,Indianapolis Colts,Indianapolis Colts
+3/1/16,Cincinnati Bengals,Cincinnati Bengals
+3/1/16,Kansas City Chiefs,Kansas City Chiefs
+3/1/16,Arizona Cardinals,Arizona Cardinals
+9/1/16,Cincinnati Bengals,Cincinnati Bengals
+9/1/16,Houston Texans,Houston Texans
+10/1/16,Minnesota Vikings,Minnesota Vikings
+10/1/16,Washington Redskins,Washington Redskins
+16/1/16,Arizona Cardinals,Arizona Cardinals
+16/1/16,New England Patriots,New England Patriots
+17/1/16,Denver Broncos,Denver Broncos
+17/1/16,Carolina Panthers,Carolina Panthers
+24/1/16,Carolina Panthers,Carolina Panthers
+24/1/16,Denver Broncos,Denver Broncos
+7/2/16,Superbowl 2016,Denver Broncos
