@@ -1,0 +1,290 @@
+GameDate,location,team,city,state,OffenseTeam,year,month,day,rain,snow
+2013-09-05,Denver Broncos,Denver Broncos,Denver,CO,DEN,2013,09,05,0,0
+2013-09-08,New York Jets,New York Jets,East_Rutherford,NJ,NYJ,2013,09,08,0,0
+2013-09-08,Buffalo Bills,Buffalo Bills,Orchard_Park,NY,BUF,2013,09,08,1,0
+2013-09-08,St. Louis Rams,St. Louis Rams,St_Louis,MO,STL,2013,09,08,1,0
+2013-09-08,Carolina Panthers,Carolina Panthers,Charlotte,NC,CAR,2013,09,08,0,0
+2013-09-08,Detroit Lions,Detroit Lions,Detroit,MI,DET,2013,09,08,0,0
+2013-09-08,Chicago Bears,Chicago Bears,Chicago,IL,CHI,2013,09,08,0,0
+2013-09-08,Jacksonville Jaguars,Jacksonville Jaguars,Jacksonville,FL,JAC,2013,09,08,0,0
+2013-09-08,Dallas Cowboys,Dallas Cowboys,Arlington,TX,DAL,2013,09,08,0,0
+2013-09-08,Pittsburgh Steelers,Pittsburgh Steelers,Pittsburgh,PA,PIT,2013,09,08,0,0
+2013-09-08,Cleveland Browns,Cleveland Browns,Cleveland,OH,CLE,2013,09,08,0,0
+2013-09-08,San Francisco 49ers,San Francisco 49ers,Santa_Clara,CA,SF,2013,09,08,0,0
+2013-09-08,Indianapolis Colts,Indianapolis Colts,Indianapolis,IN,IND,2013,09,08,0,0
+2013-09-08,New Orleans Saints,New Orleans Saints,New_Orleans,LA,NO,2013,09,08,1,0
+2013-09-12,New England Patriots,New England Patriots,Foxboro,MA,NE,2013,09,12,1,0
+2013-10-03,Cleveland Browns,Cleveland Browns,Cleveland,OH,CLE,2013,10,03,1,0
+2013-10-06,Arizona Cardinals,Arizona Cardinals,Glendale,AZ,ARI,2013,10,06,0,0
+2013-10-06,Green Bay Packers,Green Bay Packers,Green_Bay,WI,GB,2013,10,06,1,0
+2013-10-06,Indianapolis Colts,Indianapolis Colts,Indianapolis,IN,IND,2013,10,06,1,0
+2013-10-06,Tennessee Titans,Tennessee Titans,Nashville,TN,TEN,2013,10,06,1,0
+2013-10-06,Miami Dolphins,Miami Dolphins,Miami,FL,MIA,2013,10,06,0,0
+2013-10-06,San Francisco 49ers,San Francisco 49ers,Santa_Clara,CA,SF,2013,10,06,0,0
+2013-10-06,Chicago Bears,Chicago Bears,Chicago,IL,CHI,2013,10,06,1,0
+2013-10-06,Oakland Raiders,Oakland Raiders,Oakland,CA,OAK,2013,10,06,0,0
+2013-10-06,New York Giants,New York Giants,East_Rutherford,NJ,NYG,2013,10,06,1,0
+2013-10-06,St. Louis Rams,St. Louis Rams,St_Louis,MO,STL,2013,10,06,0,0
+2013-10-06,Cincinnati Bengals,Cincinnati Bengals,Cincinnati,OH,CIN,2013,10,06,1,0
+2013-10-06,Dallas Cowboys,Dallas Cowboys,Arlington,TX,DAL,2013,10,06,0,0
+2013-10-07,Atlanta Falcons,Atlanta Falcons,Atlanta,GA,ATL,2013,10,07,1,0
+2013-11-03,St. Louis Rams,St. Louis Rams,St_Louis,MO,STL,2013,11,03,0,0
+2013-11-03,Houston Texans,Houston Texans,Houston,TX,HOU,2013,11,03,0,0
+2013-11-03,Washington Redskins,Washington Redskins,Landover,MD,WAS,2013,11,03,0,0
+2013-11-03,New York Jets,New York Jets,East_Rutherford,NJ,NYJ,2013,11,03,0,0
+2013-11-03,Carolina Panthers,Carolina Panthers,Charlotte,NC,CAR,2013,11,03,0,0
+2013-11-03,Buffalo Bills,Buffalo Bills,Orchard_Park,NY,BUF,2013,11,03,0,0
+2013-11-03,Seattle Seahawks,Seattle Seahawks,Seattle,WA,SEA,2013,11,03,1,0
+2013-11-03,New England Patriots,New England Patriots,Foxboro,MA,NE,2013,11,03,1,0
+2013-11-03,Cleveland Browns,Cleveland Browns,Cleveland,OH,CLE,2013,11,03,0,0
+2013-11-03,Dallas Cowboys,Dallas Cowboys,Arlington,TX,DAL,2013,11,03,0,0
+2013-11-03,Oakland Raiders,Oakland Raiders,Oakland,CA,OAK,2013,11,03,0,0
+2013-11-04,Green Bay Packers,Green Bay Packers,Green_Bay,WI,GB,2013,11,04,1,0
+2013-11-07,Minnesota Vikings,Minnesota Vikings,Minneapolis,MN,MIN,2013,11,07,0,0
+2013-11-10,San Francisco 49ers,San Francisco 49ers,Santa_Clara,CA,SF,2013,11,10,0,0
+2013-11-10,Indianapolis Colts,Indianapolis Colts,Indianapolis,IN,IND,2013,11,10,0,0
+2013-11-10,Atlanta Falcons,Atlanta Falcons,Atlanta,GA,ATL,2013,11,10,0,0
+2013-11-10,Tennessee Titans,Tennessee Titans,Nashville,TN,TEN,2013,11,10,0,0
+2013-11-10,San Diego Chargers,San Diego Chargers,San_Diego,CA,SD,2013,11,10,0,0
+2013-11-10,New York Giants,New York Giants,East_Rutherford,NJ,NYG,2013,11,10,1,0
+2013-11-10,Chicago Bears,Chicago Bears,Chicago,IL,CHI,2013,11,10,0,0
+2013-11-10,Green Bay Packers,Green Bay Packers,Green_Bay,WI,GB,2013,11,10,1,0
+2013-11-10,Arizona Cardinals,Arizona Cardinals,Glendale,AZ,ARI,2013,11,10,0,0
+2013-11-10,Baltimore Ravens,Baltimore Ravens,Baltimore,MD,BAL,2013,11,10,0,0
+2013-11-10,Pittsburgh Steelers,Pittsburgh Steelers,Pittsburgh,PA,PIT,2013,11,10,0,0
+2013-11-10,New Orleans Saints,New Orleans Saints,New_Orleans,LA,NO,2013,11,10,0,0
+2013-12-01,Carolina Panthers,Carolina Panthers,Charlotte,NC,CAR,2013,12,01,0,0
+2013-12-01,Cleveland Browns,Cleveland Browns,Cleveland,OH,CLE,2013,12,01,0,0
+2013-12-01,New York Jets,New York Jets,East_Rutherford,NJ,NYJ,2013,12,01,0,0
+2013-12-01,Washington Redskins,Washington Redskins,Landover,MD,WAS,2013,12,01,0,0
+2013-12-01,Minnesota Vikings,Minnesota Vikings,Minneapolis,MN,MIN,2013,12,01,0,0
+2013-12-01,Kansas City Chiefs,Kansas City Chiefs,Kansas_City,MO,KC,2013,12,01,0,0
+2013-12-01,San Diego Chargers,San Diego Chargers,San_Diego,CA,SD,2013,12,01,0,0
+2013-12-01,Indianapolis Colts,Indianapolis Colts,Indianapolis,IN,IND,2013,12,01,0,0
+2013-12-01,San Francisco 49ers,San Francisco 49ers,Santa_Clara,CA,SF,2013,12,01,0,0
+2013-12-01,Buffalo Bills,Buffalo Bills,Orchard_Park,NY,BUF,2013,12,01,1,0
+2013-12-01,Houston Texans,Houston Texans,Houston,TX,HOU,2013,12,01,0,0
+2013-12-01,Philadelphia Eagles,Philadelphia Eagles,Philadelphia,PA,PHI,2013,12,01,0,0
+2013-12-02,Seattle Seahawks,Seattle Seahawks,Seattle,WA,SEA,2013,12,02,1,0
+2013-12-05,Jacksonville Jaguars,Jacksonville Jaguars,Jacksonville,FL,JAC,2013,12,05,0,0
+2013-12-08,San Diego Chargers,San Diego Chargers,San_Diego,CA,SD,2013,12,08,0,0
+2013-12-08,Pittsburgh Steelers,Pittsburgh Steelers,Pittsburgh,PA,PIT,2013,12,08,1,1
+2013-12-08,San Francisco 49ers,San Francisco 49ers,Santa_Clara,CA,SF,2013,12,08,0,0
+2013-12-08,Baltimore Ravens,Baltimore Ravens,Baltimore,MD,BAL,2013,12,08,0,0
+2013-12-08,Cincinnati Bengals,Cincinnati Bengals,Cincinnati,OH,CIN,2013,12,08,1,1
+2013-12-08,Philadelphia Eagles,Philadelphia Eagles,Philadelphia,PA,PHI,2013,12,08,0,1
+2013-12-08,Washington Redskins,Washington Redskins,Landover,MD,WAS,2013,12,08,0,0
+2013-12-08,New England Patriots,New England Patriots,Foxboro,MA,NE,2013,12,08,0,0
+2013-12-08,Denver Broncos,Denver Broncos,Denver,CO,DEN,2013,12,08,0,1
+2013-12-08,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Tampa,FL,TB,2013,12,08,0,0
+2013-12-08,New Orleans Saints,New Orleans Saints,New_Orleans,LA,NO,2013,12,08,1,0
+2013-12-08,New York Jets,New York Jets,East_Rutherford,NJ,NYJ,2013,12,08,0,1
+2013-12-08,Arizona Cardinals,Arizona Cardinals,Glendale,AZ,ARI,2013,12,08,0,0
+2013-12-08,Green Bay Packers,Green Bay Packers,Green_Bay,WI,GB,2013,12,08,0,1
+2013-12-09,Chicago Bears,Chicago Bears,Chicago,IL,CHI,2013,12,09,0,1
+2014-01-04,Indianapolis Colts,Indianapolis Colts,Indianapolis,IN,IND,2014,01,04,0,0
+2014-01-04,Philadelphia Eagles,Philadelphia Eagles,Philadelphia,PA,PHI,2014,01,04,0,0
+2014-01-05,Cincinnati Bengals,Cincinnati Bengals,Cincinnati,OH,CIN,2014,01,05,1,1
+2014-01-05,Green Bay Packers,Green Bay Packers,Green_Bay,WI,GB,2014,01,05,0,0
+2014-01-11,Seattle Seahawks,Seattle Seahawks,Seattle,WA,SEA,2014,01,11,1,0
+2014-01-11,New England Patriots,New England Patriots,Foxboro,MA,NE,2014,01,11,1,0
+2014-01-12,Denver Broncos,Denver Broncos,Denver,CO,DEN,2014,01,12,0,0
+2014-01-12,Carolina Panthers,Carolina Panthers,Charlotte,NC,CAR,2014,01,12,0,0
+2014-01-19,Denver Broncos,Denver Broncos,Denver,CO,DEN,2014,01,19,0,0
+2014-01-19,Seattle Seahawks,Seattle Seahawks,Seattle,WA,SEA,2014,01,19,0,0
+2014-02-02,Superbowl 2014,Seattle Seahawks,East_Rutherford,NJ,SB14,2014,02,02,1,0
+2014-09-04,Seattle Seahawks,Seattle Seahawks,Seattle,WA,SEA,2014,09,04,0,0
+2014-09-07,Atlanta Falcons,Atlanta Falcons,Atlanta,GA,ATL,2014,09,07,1,0
+2014-09-07,Houston Texans,Houston Texans,Houston,TX,HOU,2014,09,07,0,0
+2014-09-07,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Tampa,FL,TB,2014,09,07,0,0
+2014-09-07,Chicago Bears,Chicago Bears,Chicago,IL,CHI,2014,09,07,0,0
+2014-09-07,Dallas Cowboys,Dallas Cowboys,Arlington,TX,DAL,2014,09,07,0,0
+2014-09-07,Denver Broncos,Denver Broncos,Denver,CO,DEN,2014,09,07,0,0
+2014-09-07,Pittsburgh Steelers,Pittsburgh Steelers,Pittsburgh,PA,PIT,2014,09,07,0,0
+2014-09-07,Baltimore Ravens,Baltimore Ravens,Baltimore,MD,BAL,2014,09,07,0,0
+2014-09-07,Philadelphia Eagles,Philadelphia Eagles,Philadelphia,PA,PHI,2014,09,07,0,0
+2014-09-07,Kansas City Chiefs,Kansas City Chiefs,Kansas_City,MO,KC,2014,09,07,0,0
+2014-09-07,Miami Dolphins,Miami Dolphins,Miami,FL,MIA,2014,09,07,1,0
+2014-09-07,St. Louis Rams,St. Louis Rams,St_Louis,MO,STL,2014,09,07,0,0
+2014-09-07,New York Jets,New York Jets,East_Rutherford,NJ,NYJ,2014,09,07,1,0
+2014-09-08,Detroit Lions,Detroit Lions,Detroit,MI,DET,2014,09,08,0,0
+2014-09-08,Arizona Cardinals,Arizona Cardinals,Glendale,AZ,ARI,2014,09,08,1,0
+2014-09-11,Baltimore Ravens,Baltimore Ravens,Baltimore,MD,BAL,2014,09,11,0,0
+2014-10-02,Green Bay Packers,Green Bay Packers,Green_Bay,WI,GB,2014,10,02,1,0
+2014-10-05,Tennessee Titans,Tennessee Titans,Nashville,TN,TEN,2014,10,05,0,0
+2014-10-05,Denver Broncos,Denver Broncos,Denver,CO,DEN,2014,10,05,0,0
+2014-10-05,New England Patriots,New England Patriots,Foxboro,MA,NE,2014,10,05,0,0
+2014-10-05,Jacksonville Jaguars,Jacksonville Jaguars,Jacksonville,FL,JAC,2014,10,05,0,0
+2014-10-05,Detroit Lions,Detroit Lions,Detroit,MI,DET,2014,10,05,0,0
+2014-10-05,San Francisco 49ers,San Francisco 49ers,Santa_Clara,CA,SF,2014,10,05,0,0
+2014-10-05,Carolina Panthers,Carolina Panthers,Charlotte,NC,CAR,2014,10,05,0,0
+2014-10-05,Philadelphia Eagles,Philadelphia Eagles,Philadelphia,PA,PHI,2014,10,05,0,0
+2014-10-05,Dallas Cowboys,Dallas Cowboys,Arlington,TX,DAL,2014,10,05,0,0
+2014-10-05,Indianapolis Colts,Indianapolis Colts,Indianapolis,IN,IND,2014,10,05,1,0
+2014-10-05,New York Giants,New York Giants,East_Rutherford,NJ,NYG,2014,10,05,0,0
+2014-10-05,New Orleans Saints,New Orleans Saints,New_Orleans,LA,NO,2014,10,05,0,0
+2014-10-05,San Diego Chargers,San Diego Chargers,San_Diego,CA,SD,2014,10,05,0,0
+2014-10-06,Washington Redskins,Washington Redskins,Landover,MD,WAS,2014,10,06,0,0
+2014-10-09,Houston Texans,Houston Texans,Houston,TX,HOU,2014,10,09,0,0
+2014-10-12,Oakland Raiders,Oakland Raiders,Oakland,CA,OAK,2014,10,12,0,0
+2014-10-12,New York Jets,New York Jets,East_Rutherford,NJ,NYJ,2014,10,12,0,0
+2014-10-12,Arizona Cardinals,Arizona Cardinals,Glendale,AZ,ARI,2014,10,12,0,0
+2014-10-12,Cleveland Browns,Cleveland Browns,Cleveland,OH,CLE,2014,10,12,0,0
+2014-10-12,Cincinnati Bengals,Cincinnati Bengals,Cincinnati,OH,CIN,2014,10,12,1,0
+2014-10-12,Seattle Seahawks,Seattle Seahawks,Seattle,WA,SEA,2014,10,12,1,0
+2014-10-12,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Tampa,FL,TB,2014,10,12,0,0
+2014-10-12,Tennessee Titans,Tennessee Titans,Nashville,TN,TEN,2014,10,12,1,0
+2014-10-12,Philadelphia Eagles,Philadelphia Eagles,Philadelphia,PA,PHI,2014,10,12,0,0
+2014-10-12,Atlanta Falcons,Atlanta Falcons,Atlanta,GA,ATL,2014,10,12,1,0
+2014-10-12,Miami Dolphins,Miami Dolphins,Miami,FL,MIA,2014,10,12,1,0
+2014-10-12,Minnesota Vikings,Minnesota Vikings,Minneapolis,MN,MIN,2014,10,12,0,0
+2014-10-12,Buffalo Bills,Buffalo Bills,Orchard_Park,NY,BUF,2014,10,12,0,0
+2014-11-02,Kansas City Chiefs,Kansas City Chiefs,Kansas_City,MO,KC,2014,11,02,1,0
+2014-11-02,Seattle Seahawks,Seattle Seahawks,Seattle,WA,SEA,2014,11,02,1,0
+2014-11-02,Dallas Cowboys,Dallas Cowboys,Arlington,TX,DAL,2014,11,02,0,0
+2014-11-02,New England Patriots,New England Patriots,Foxboro,MA,NE,2014,11,02,1,1
+2014-11-02,Cincinnati Bengals,Cincinnati Bengals,Cincinnati,OH,CIN,2014,11,02,0,0
+2014-11-02,Cleveland Browns,Cleveland Browns,Cleveland,OH,CLE,2014,11,02,0,0
+2014-11-02,Miami Dolphins,Miami Dolphins,Miami,FL,MIA,2014,11,02,0,0
+2014-11-02,San Francisco 49ers,San Francisco 49ers,Santa_Clara,CA,SF,2014,11,02,0,0
+2014-11-02,Minnesota Vikings,Minnesota Vikings,Minneapolis,MN,MIN,2014,11,02,0,0
+2014-11-02,Pittsburgh Steelers,Pittsburgh Steelers,Pittsburgh,PA,PIT,2014,11,02,0,0
+2014-11-02,Houston Texans,Houston Texans,Houston,TX,HOU,2014,11,02,0,0
+2014-11-03,New York Giants,New York Giants,East_Rutherford,NJ,NYG,2014,11,03,0,0
+2014-11-06,Cincinnati Bengals,Cincinnati Bengals,Cincinnati,OH,CIN,2014,11,06,1,0
+2014-11-09,Oakland Raiders,Oakland Raiders,Oakland,CA,OAK,2014,11,09,0,0
+2014-11-09,Buffalo Bills,Buffalo Bills,Orchard_Park,NY,BUF,2014,11,09,1,0
+2014-11-09,New Orleans Saints,New Orleans Saints,New_Orleans,LA,NO,2014,11,09,0,0
+2014-11-09,Detroit Lions,Detroit Lions,Detroit,MI,DET,2014,11,09,0,0
+2014-11-09,Green Bay Packers,Green Bay Packers,Green_Bay,WI,GB,2014,11,09,1,1
+2014-11-09,Baltimore Ravens,Baltimore Ravens,Baltimore,MD,BAL,2014,11,09,0,0
+2014-11-09,Seattle Seahawks,Seattle Seahawks,Seattle,WA,SEA,2014,11,09,1,0
+2014-11-09,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Tampa,FL,TB,2014,11,09,1,0
+2014-11-09,Arizona Cardinals,Arizona Cardinals,Glendale,AZ,ARI,2014,11,09,0,0
+2014-11-09,New York Jets,New York Jets,East_Rutherford,NJ,NYJ,2014,11,09,0,0
+2014-11-09,Jacksonville Jaguars,Jacksonville Jaguars,Jacksonville,FL,JAC,2014,11,09,1,0
+2014-11-10,Philadelphia Eagles,Philadelphia Eagles,Philadelphia,PA,PHI,2014,11,10,0,0
+2014-12-01,New York Jets,New York Jets,East_Rutherford,NJ,NYJ,2014,12,01,1,0
+2014-12-04,Chicago Bears,Chicago Bears,Chicago,IL,CHI,2014,12,04,0,0
+2014-12-07,Minnesota Vikings,Minnesota Vikings,Minneapolis,MN,MIN,2014,12,07,0,1
+2014-12-07,Denver Broncos,Denver Broncos,Denver,CO,DEN,2014,12,07,0,0
+2014-12-07,Washington Redskins,Washington Redskins,Landover,MD,WAS,2014,12,07,0,0
+2014-12-07,San Diego Chargers,San Diego Chargers,San_Diego,CA,SD,2014,12,07,0,0
+2014-12-07,Detroit Lions,Detroit Lions,Detroit,MI,DET,2014,12,07,0,0
+2014-12-07,Arizona Cardinals,Arizona Cardinals,Glendale,AZ,ARI,2014,12,07,0,0
+2014-12-07,Philadelphia Eagles,Philadelphia Eagles,Philadelphia,PA,PHI,2014,12,07,1,0
+2014-12-07,Cincinnati Bengals,Cincinnati Bengals,Cincinnati,OH,CIN,2014,12,07,0,0
+2014-12-07,Cleveland Browns,Cleveland Browns,Cleveland,OH,CLE,2014,12,07,0,0
+2014-12-07,Oakland Raiders,Oakland Raiders,Oakland,CA,OAK,2014,12,07,0,0
+2014-12-07,New Orleans Saints,New Orleans Saints,New_Orleans,LA,NO,2014,12,07,0,0
+2014-12-07,Jacksonville Jaguars,Jacksonville Jaguars,Jacksonville,FL,JAC,2014,12,07,1,0
+2014-12-07,Tennessee Titans,Tennessee Titans,Nashville,TN,TEN,2014,12,07,0,0
+2014-12-07,Miami Dolphins,Miami Dolphins,Miami,FL,MIA,2014,12,07,0,0
+2014-12-08,Green Bay Packers,Green Bay Packers,Green_Bay,WI,GB,2014,12,08,0,1
+2014-12-11,St. Louis Rams,St. Louis Rams,St_Louis,MO,STL,2014,12,11,0,0
+2015-01-03,Pittsburgh Steelers,Pittsburgh Steelers,Pittsburgh,PA,PIT,2015,01,03,1,0
+2015-01-03,Carolina Panthers,Carolina Panthers,Charlotte,NC,CAR,2015,01,03,1,0
+2015-01-04,Dallas Cowboys,Dallas Cowboys,Arlington,TX,DAL,2015,01,04,0,0
+2015-01-04,Indianapolis Colts,Indianapolis Colts,Indianapolis,IN,IND,2015,01,04,0,1
+2015-01-10,New England Patriots,New England Patriots,Foxboro,MA,NE,2015,01,10,0,0
+2015-01-10,Seattle Seahawks,Seattle Seahawks,Seattle,WA,SEA,2015,01,10,1,0
+2015-01-11,Denver Broncos,Denver Broncos,Denver,CO,DEN,2015,01,11,0,1
+2015-01-11,Green Bay Packers,Green Bay Packers,Green_Bay,WI,GB,2015,01,11,0,0
+2015-01-18,Seattle Seahawks,Seattle Seahawks,Seattle,WA,SEA,2015,01,18,1,0
+2015-01-18,New England Patriots,New England Patriots,Foxboro,MA,NE,2015,01,18,1,0
+2015-02-01,Superbowl 2015,Seattle Seahawks,Glendale,AZ,SB15,2015,02,01,0,0
+2015-09-10,New England Patriots,New England Patriots,Foxboro,MA,NE,2015,09,10,1,0
+2015-10-01,Pittsburgh Steelers,Pittsburgh Steelers,Pittsburgh,PA,PIT,2015,10,01,0,0
+2015-10-04,Indianapolis Colts,Indianapolis Colts,Indianapolis,IN,IND,2015,10,04,0,0
+2015-10-04,Cincinnati Bengals,Cincinnati Bengals,Cincinnati,OH,CIN,2015,10,04,0,0
+2015-10-04,San Diego Chargers,San Diego Chargers,San_Diego,CA,SD,2015,10,04,1,0
+2015-10-04,Denver Broncos,Denver Broncos,Denver,CO,DEN,2015,10,04,0,0
+2015-10-04,Buffalo Bills,Buffalo Bills,Orchard_Park,NY,BUF,2015,10,04,0,0
+2015-10-04,Atlanta Falcons,Atlanta Falcons,Atlanta,GA,ATL,2015,10,04,1,0
+2015-10-04,Miami Dolphins,Miami Dolphins,Miami,FL,MIA,2015,10,04,0,0
+2015-10-04,Chicago Bears,Chicago Bears,Chicago,IL,CHI,2015,10,04,0,0
+2015-10-04,New Orleans Saints,New Orleans Saints,New_Orleans,LA,NO,2015,10,04,0,0
+2015-10-04,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Tampa,FL,TB,2015,10,04,0,0
+2015-10-04,San Francisco 49ers,San Francisco 49ers,Santa_Clara,CA,SF,2015,10,04,0,0
+2015-10-04,Arizona Cardinals,Arizona Cardinals,Glendale,AZ,ARI,2015,10,04,0,0
+2015-10-04,Washington Redskins,Washington Redskins,Landover,MD,WAS,2015,10,04,0,0
+2015-10-05,Seattle Seahawks,Seattle Seahawks,Seattle,WA,SEA,2015,10,05,0,0
+2015-10-08,Houston Texans,Houston Texans,Houston,TX,HOU,2015,10,08,0,0
+2015-10-11,Baltimore Ravens,Baltimore Ravens,Baltimore,MD,BAL,2015,10,11,0,0
+2015-10-11,Tennessee Titans,Tennessee Titans,Nashville,TN,TEN,2015,10,11,0,0
+2015-10-11,Cincinnati Bengals,Cincinnati Bengals,Cincinnati,OH,CIN,2015,10,11,0,0
+2015-10-11,Kansas City Chiefs,Kansas City Chiefs,Kansas_City,MO,KC,2015,10,11,0,0
+2015-10-11,New York Giants,New York Giants,East_Rutherford,NJ,NYG,2015,10,11,0,0
+2015-10-11,Philadelphia Eagles,Philadelphia Eagles,Philadelphia,PA,PHI,2015,10,11,0,0
+2015-10-11,Oakland Raiders,Oakland Raiders,Oakland,CA,OAK,2015,10,11,0,0
+2015-10-11,Detroit Lions,Detroit Lions,Detroit,MI,DET,2015,10,11,0,0
+2015-10-11,Atlanta Falcons,Atlanta Falcons,Atlanta,GA,ATL,2015,10,11,0,0
+2015-10-11,Dallas Cowboys,Dallas Cowboys,Arlington,TX,DAL,2015,10,11,0,0
+2015-10-11,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Tampa,FL,TB,2015,10,11,0,0
+2015-10-11,Green Bay Packers,Green Bay Packers,Green_Bay,WI,GB,2015,10,11,0,0
+2015-10-12,San Diego Chargers,San Diego Chargers,San_Diego,CA,SD,2015,10,12,0,0
+2015-11-01,Chicago Bears,Chicago Bears,Chicago,IL,CHI,2015,11,01,0,0
+2015-11-01,Dallas Cowboys,Dallas Cowboys,Arlington,TX,DAL,2015,11,01,1,0
+2015-11-01,St. Louis Rams,St. Louis Rams,St_Louis,MO,STL,2015,11,01,0,0
+2015-11-01,Oakland Raiders,Oakland Raiders,Oakland,CA,OAK,2015,11,01,1,0
+2015-11-01,Pittsburgh Steelers,Pittsburgh Steelers,Pittsburgh,PA,PIT,2015,11,01,1,0
+2015-11-01,Denver Broncos,Denver Broncos,Denver,CO,DEN,2015,11,01,0,0
+2015-11-01,Houston Texans,Houston Texans,Houston,TX,HOU,2015,11,01,0,0
+2015-11-01,Kansas City Chiefs,Kansas City Chiefs,Kansas_City,MO,KC,2015,11,01,0,0
+2015-11-01,Cleveland Browns,Cleveland Browns,Cleveland,OH,CLE,2015,11,01,1,0
+2015-11-01,Baltimore Ravens,Baltimore Ravens,Baltimore,MD,BAL,2015,11,01,0,0
+2015-11-01,Atlanta Falcons,Atlanta Falcons,Atlanta,GA,ATL,2015,11,01,1,0
+2015-11-01,New Orleans Saints,New Orleans Saints,New_Orleans,LA,NO,2015,11,01,1,0
+2015-11-02,Carolina Panthers,Carolina Panthers,Charlotte,NC,CAR,2015,11,02,1,0
+2015-11-05,Cincinnati Bengals,Cincinnati Bengals,Cincinnati,OH,CIN,2015,11,05,1,0
+2015-11-08,Dallas Cowboys,Dallas Cowboys,Arlington,TX,DAL,2015,11,08,1,0
+2015-11-08,Buffalo Bills,Buffalo Bills,Orchard_Park,NY,BUF,2015,11,08,0,0
+2015-11-08,Minnesota Vikings,Minnesota Vikings,Minneapolis,MN,MIN,2015,11,08,0,0
+2015-11-08,New York Jets,New York Jets,East_Rutherford,NJ,NYJ,2015,11,08,0,0
+2015-11-08,New England Patriots,New England Patriots,Foxboro,MA,NE,2015,11,08,0,0
+2015-11-08,Carolina Panthers,Carolina Panthers,Charlotte,NC,CAR,2015,11,08,1,0
+2015-11-08,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Tampa,FL,TB,2015,11,08,1,0
+2015-11-08,Indianapolis Colts,Indianapolis Colts,Indianapolis,IN,IND,2015,11,08,0,0
+2015-11-08,San Francisco 49ers,San Francisco 49ers,Santa_Clara,CA,SF,2015,11,08,1,0
+2015-11-08,New Orleans Saints,New Orleans Saints,New_Orleans,LA,NO,2015,11,08,1,0
+2015-11-08,Pittsburgh Steelers,Pittsburgh Steelers,Pittsburgh,PA,PIT,2015,11,08,0,0
+2015-11-09,San Diego Chargers,San Diego Chargers,San_Diego,CA,SD,2015,11,09,1,0
+2015-11-12,New York Jets,New York Jets,East_Rutherford,NJ,NYJ,2015,11,12,1,0
+2015-12-03,Detroit Lions,Detroit Lions,Detroit,MI,DET,2015,12,03,0,1
+2015-12-06,Tampa Bay Buccaneers,Tampa Bay Buccaneers,Tampa,FL,TB,2015,12,06,0,0
+2015-12-06,Cleveland Browns,Cleveland Browns,Cleveland,OH,CLE,2015,12,06,0,0
+2015-12-06,New Orleans Saints,New Orleans Saints,New_Orleans,LA,NO,2015,12,06,0,0
+2015-12-06,St. Louis Rams,St. Louis Rams,St_Louis,MO,STL,2015,12,06,0,0
+2015-12-06,Tennessee Titans,Tennessee Titans,Nashville,TN,TEN,2015,12,06,0,0
+2015-12-06,Minnesota Vikings,Minnesota Vikings,Minneapolis,MN,MIN,2015,12,06,0,0
+2015-12-06,Oakland Raiders,Oakland Raiders,Oakland,CA,OAK,2015,12,06,1,0
+2015-12-06,Miami Dolphins,Miami Dolphins,Miami,FL,MIA,2015,12,06,1,0
+2015-12-06,New York Giants,New York Giants,East_Rutherford,NJ,NYG,2015,12,06,0,0
+2015-12-06,San Diego Chargers,San Diego Chargers,San_Diego,CA,SD,2015,12,06,0,0
+2015-12-06,Pittsburgh Steelers,Pittsburgh Steelers,Pittsburgh,PA,PIT,2015,12,06,0,0
+2015-12-06,Buffalo Bills,Buffalo Bills,Orchard_Park,NY,BUF,2015,12,06,0,0
+2015-12-06,New England Patriots,New England Patriots,Foxboro,MA,NE,2015,12,06,0,0
+2015-12-06,Chicago Bears,Chicago Bears,Chicago,IL,CHI,2015,12,06,0,0
+2015-12-07,Washington Redskins,Washington Redskins,Landover,MD,WAS,2015,12,07,0,0
+2015-12-10,Arizona Cardinals,Arizona Cardinals,Glendale,AZ,ARI,2015,12,10,0,0
+2016-01-03,Cleveland Browns,Cleveland Browns,Cleveland,OH,CLE,2016,01,03,0,1
+2016-01-03,Atlanta Falcons,Atlanta Falcons,Atlanta,GA,ATL,2016,01,03,0,0
+2016-01-03,San Francisco 49ers,San Francisco 49ers,Santa_Clara,CA,SF,2016,01,03,1,0
+2016-01-03,Chicago Bears,Chicago Bears,Chicago,IL,CHI,2016,01,03,0,1
+2016-01-03,Carolina Panthers,Carolina Panthers,Charlotte,NC,CAR,2016,01,03,0,0
+2016-01-03,Denver Broncos,Denver Broncos,Denver,CO,DEN,2016,01,03,0,0
+2016-01-03,New York Giants,New York Giants,East_Rutherford,NJ,NYG,2016,01,03,0,0
+2016-01-03,Miami Dolphins,Miami Dolphins,Miami,FL,MIA,2016,01,03,1,0
+2016-01-03,Houston Texans,Houston Texans,Houston,TX,HOU,2016,01,03,0,0
+2016-01-03,Dallas Cowboys,Dallas Cowboys,Arlington,TX,DAL,2016,01,03,0,0
+2016-01-03,Buffalo Bills,Buffalo Bills,Orchard_Park,NY,BUF,2016,01,03,0,1
+2016-01-03,Green Bay Packers,Green Bay Packers,Green_Bay,WI,GB,2016,01,03,0,1
+2016-01-03,Indianapolis Colts,Indianapolis Colts,Indianapolis,IN,IND,2016,01,03,0,0
+2016-01-03,Cincinnati Bengals,Cincinnati Bengals,Cincinnati,OH,CIN,2016,01,03,0,0
+2016-01-03,Kansas City Chiefs,Kansas City Chiefs,Kansas_City,MO,KC,2016,01,03,0,0
+2016-01-03,Arizona Cardinals,Arizona Cardinals,Glendale,AZ,ARI,2016,01,03,0,0
+2016-01-09,Cincinnati Bengals,Cincinnati Bengals,Cincinnati,OH,CIN,2016,01,09,1,0
+2016-01-09,Houston Texans,Houston Texans,Houston,TX,HOU,2016,01,09,0,0
+2016-01-10,Minnesota Vikings,Minnesota Vikings,Minneapolis,MN,MIN,2016,01,10,0,0
+2016-01-10,Washington Redskins,Washington Redskins,Landover,MD,WAS,2016,01,10,0,0
+2016-02-07,Superbowl 2016,Denver Broncos,Santa_Clara,CA,SB16,2016,02,07,0,0

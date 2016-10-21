@@ -7,8 +7,8 @@ import requests
 import re
 import time
 
-df1 = pd.read_csv("users/Sheena/Desktop/DSI/Capstone/game_location.csv")
-df2 = pd.read_csv("users/Sheena/Desktop/DSI/Capstone/location.csv")
+df1 = pd.read_csv("/users/Sheena/Desktop/DSI/Capstone/assets/game_location.csv")
+df2 = pd.read_csv("/users/Sheena/Desktop/DSI/Capstone/assets/location.csv")
 
 city=[]
 state=[]
@@ -42,31 +42,31 @@ dfs2 = df1.iloc[300:600,:]
 dfs3 = df1.iloc[600:,:]
 
 ##RUN ON DAY1 (FRIDAY OR SAT)
-# for y,m,d,state,city in zip(dfs1["year"].tolist(),dfs1["month"].tolist(),
-# dfs1["day"].tolist(),dfs1["state"].tolist(),dfs1["city"].tolist()):
-#     api_base_url = 'http://api.wunderground.com/api/ecf23b1cb8c40db8/history_%s%s%s/q/%s/%s.json'%(y,m,d,state,city)
-#     response = json.loads(requests.get(api_base_url).text)
-#     snow.append(response["history"]["dailysummary"][0]["snow"])
-#     rain.append(response["history"]["dailysummary"][0]["rain"])
-#     time.sleep(7)
+#for y,m,d,state,city in zip(dfs1["year"].tolist(),dfs1["month"].tolist(),
+#dfs1["day"].tolist(),dfs1["state"].tolist(),dfs1["city"].tolist()):
+#    api_base_url = 'http://api.wunderground.com/api/ecf23b1cb8c40db8/history_%s%s%s/q/%s/%s.json'%(y,m,d,state,city)
+#    response = json.loads(requests.get(api_base_url).text)
+#    snow.append(response["history"]["dailysummary"][0]["snow"])
+#    rain.append(response["history"]["dailysummary"][0]["rain"])
+#    time.sleep(7)
 
 ##RUN ON DAY2 (SATURDAY or SUNDAY)
-# for y,m,d,state,city in zip(dfs2["year"].tolist(),dfs2["month"].tolist(),
-# dfs2["day"].tolist(),dfs2["state"].tolist(),dfs2["city"].tolist()):
-#     api_base_url = 'http://api.wunderground.com/api/ecf23b1cb8c40db8/history_%s%s%s/q/%s/%s.json'%(y,m,d,state,city)
-#     response = json.loads(requests.get(api_base_url).text)
-#     snow.append(response["history"]["dailysummary"][0]["snow"])
-#     rain.append(response["history"]["dailysummary"][0]["rain"])
-#     time.sleep(7)
+#for y,m,d,state,city in zip(dfs2["year"].tolist(),dfs2["month"].tolist(),
+#dfs2["day"].tolist(),dfs2["state"].tolist(),dfs2["city"].tolist()):
+#    api_base_url = 'http://api.wunderground.com/api/ecf23b1cb8c40db8/history_%s%s%s/q/%s/%s.json'%(y,m,d,state,city)
+#    response = json.loads(requests.get(api_base_url).text)
+#    snow.append(response["history"]["dailysummary"][0]["snow"])
+#    rain.append(response["history"]["dailysummary"][0]["rain"])
+#    time.sleep(7)
 
 ##DAY 3 (SUN OR MONDAY)
- for y,m,d,state,city in zip(dfs3["year"].tolist(),dfs3["month"].tolist(),
- dfs3["day"].tolist(),dfs3["state"].tolist(),dfs3["city"].tolist()):
-     api_base_url = 'http://api.wunderground.com/api/ecf23b1cb8c40db8/history_%s%s%s/q/%s/%s.json'%(y,m,d,state,city)
-     response = json.loads(requests.get(api_base_url).text)
-     snow.append(response["history"]["dailysummary"][0]["snow"])
-     rain.append(response["history"]["dailysummary"][0]["rain"])
-     time.sleep(7)
+for y,m,d,state,city in zip(dfs3["year"].tolist(),dfs3["month"].tolist(),
+dfs3["day"].tolist(),dfs3["state"].tolist(),dfs3["city"].tolist()):
+    api_base_url = 'http://api.wunderground.com/api/ecf23b1cb8c40db8/history_%s%s%s/q/%s/%s.json'%(y,m,d,state,city)
+    response = json.loads(requests.get(api_base_url).text)
+    snow.append(response["history"]["dailysummary"][0]["snow"])
+    rain.append(response["history"]["dailysummary"][0]["rain"])
+    time.sleep(7)
 
 print len(rain)
 print len(snow)
